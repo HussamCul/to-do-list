@@ -9,8 +9,13 @@
 
 
 
+
 	
-## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+*About me**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+Interested in financial intelligence, app development, and Some Ai
+
 
 <picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 250px></picture>
 
