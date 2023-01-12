@@ -4,20 +4,23 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+and+Hello+🤨..;.....iOS-Developer-and-python-and-some+BlockChain,;Computer+Science+Student"></a>
 </p>
 
+<picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-
-
-
-
 	
-*About me**
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-Interested in financial intelligence, app development, and Some Ai
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<img src="https://user-images.githubusercontent.com/122352383/211986121-2c8e6595-e934-490e-8b56-74f727031ee3.png" height="600" width="320" >
+
+<img src="https://user-images.githubusercontent.com/122352383/211986127-9ac3eeab-a925-4297-b329-f0f19a87aeb5.png" height="600" width="320" >
+
+<img src="https://user-images.githubusercontent.com/122352383/211986134-64113ebd-8004-44a6-80c1-6353bc8b1b7a.png" height="600" width="320" >
 
 
-<picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+
+
 
 <br>
 
